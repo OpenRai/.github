@@ -1,3 +1,9 @@
-github: [OpenRai] # Replace with account handle
-custom: [
-]
+# .github/FUNDING.yml
+github: [cbrunnkvist]
+
+# Official platforms (if you set them up)
+# buy_me_a_coffee: connyb
+# patreon: connyb
+
+# Custom links (This is where you put your Crypto/Direct links)
+custom: ["https://nano.to/cbrunnkvist"]
