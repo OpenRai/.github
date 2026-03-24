@@ -6,4 +6,7 @@ github: [cbrunnkvist]
 # patreon: connyb
 
 # Custom links (This is where you put your Crypto/Direct links)
-custom: ["https://nano.to/cbrunnkvist"]
+custom: [
+  "https://nano.to/cbrunnkvist",
+  "monero:8AwS6pcLkF5VoYSocdKDRx3TpSwJuCGX3hqL6xnamUJwaa3qmBiKc6bNnPLYKvaF91TEiEYxYCvHHFiLs9Sp7rgK2hmtbKe"
+]
