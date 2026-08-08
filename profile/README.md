@@ -1,4 +1,4 @@
-The OpenRai Initiative is a community-driven effort to strengthen the [Nano](https://nano.org/) network and ecosystem. We publish research, interoperable specifications, and software for developers, wallet builders, and node operators. 
+OpenRai projects cover the practical layers around Nano. Here are some of the projects bringing that work into practice.
 
 ## Interoperability and protocol research
 - [**OpenRai Initiative Standards**](https://github.com/OpenRai/Standards) — Working technical proposals and implementation guidance for compatible Nano software. The current set covers message signing, NanoNyms, payment notifications, payment verification, and reliable ledger integration.
