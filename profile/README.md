@@ -1,4 +1,5 @@
-OpenRai projects cover the practical layers around Nano. Here are some of the projects bringing that work into practice.
+# [openrai.org](openrai.org)
+_Our projects cover the practical layers around Nano. Below are some of the projects bringing that work into practice._
 
 ## Interoperability and protocol research
 - [**OpenRai Initiative Standards**](https://github.com/OpenRai/Standards) — Working technical proposals and implementation guidance for compatible Nano software. The current set covers message signing, NanoNyms, payment notifications, payment verification, and reliable ledger integration.
